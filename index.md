@@ -187,7 +187,6 @@ transform:translateY(0);
 
 <nav>
 
-<h2>Roshan</h2>
 
 <div>
 
