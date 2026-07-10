@@ -206,7 +206,7 @@ transform:translateY(0);
 
 <p>
 
-Associate Technical Lead – DevOps Engineer with expertise in Kubernetes,
+Technical Lead – DevOps Engineer with expertise in Kubernetes,
 AWS, Terraform, Docker, GitHub Actions, ArgoCD, Linux, CI/CD Automation,
 Infrastructure as Code, Cloud Security, and GitOps.
 
@@ -307,7 +307,7 @@ LinkedIn
 <script>
 
 const words=[
-"Associate Technical Lead",
+"Devops Technical Lead",
 "DevOps Engineer",
 "AWS Specialist",
 "Kubernetes Expert",
